@@ -73,7 +73,7 @@ AI trả ra text hỗn hợp: Đi giải thích lịch sử dòng họ nhà Tây
 - Bộ lọc Boundary phát hiện rủi ro Prompt Injection -> Rơi vào ngưỡng Low-Confidence
       │
       ▼
-[UX Recovery Output — LƯỚI AN TOÀN ✨]
+[UX Recovery Output — LƯỚI AN TOÀN]
 "NEO chỉ có thể hỗ trợ các thông tin nghiệp vụ và chuyến bay của Vietnam Airlines. 
 Để được phục vụ tốt nhất, có phải Quý khách đang quan tâm về:"
       │
