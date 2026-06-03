@@ -61,9 +61,9 @@ AI trả ra text hỗn hợp: Đi giải thích lịch sử dòng họ nhà Tây
 + Tư vấn quy định đặt vé máy bay hộ cho người thân.
 (Hậu quả: Hệ thống nói lan man, phá vỡ ranh giới Boundary, user mất niềm tin)
 
-
+```
 ### Luồng cải tiến đề xuất (To-be Flow)
-
+```text
 [User Input]
 "quang trung và nguyễn huệ là 2 anh em? vì quang trung đặt vé máy bay cho nguyễn huệ"
       │
@@ -80,3 +80,4 @@ AI trả ra text hỗn hợp: Đi giải thích lịch sử dòng họ nhà Tây
       ├───────────────────────────────┬───────────────────────────────┐
       ▼                               ▼                               ▼
 [Nút: Quy định đặt vé hộ]   [Nút: Thay đổi thông tin vé]    [Nút: Gặp tổng đài viên]
+```
